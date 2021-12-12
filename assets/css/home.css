@@ -1,0 +1,38 @@
+body
+{
+    background-color:aquamarine;
+    text-align: center;
+}
+#contactList
+{
+    text-align: center;
+    font-style: sans-serif;
+}
+#name
+{
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    margin-right: 200px;
+    /* padding: 2em; */
+}
+#number
+{
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    margin-right: 0px;
+}
+#recordContact
+{
+    box-sizing: border-box;
+    margin:auto;
+    width: 400px;
+    /* padding:1em; */
+    background-color:blue;
+    margin-left:160px;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
